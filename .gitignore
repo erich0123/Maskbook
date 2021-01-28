@@ -171,3 +171,10 @@ common/temp/
 common/autoinstallers/*/.npmrc
 **/.rush/temp/
 
+# husky
+.husky
+
+# i18n
+**/i18n_generated.d.ts
+**/i18n_generated.ts
+**/i18n_generated.js
